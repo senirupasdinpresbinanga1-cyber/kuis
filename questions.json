@@ -1,0 +1,72 @@
+[
+    {
+        "level": 1,
+        "prize": "Rp 1.000.000",
+        "question": "Ibu kota negara Indonesia saat ini adalah...?",
+        "options": ["Surabaya", "Bandung", "Jakarta", "Medan"],
+        "answer": 2
+    },
+    {
+        "level": 2,
+        "prize": "Rp 2.000.000",
+        "question": "Planet manakah yang dijuluki sebagai Planet Merah?",
+        "options": ["Venus", "Mars", "Jupiter", "Saturnus"],
+        "answer": 1
+    },
+    {
+        "level": 3,
+        "prize": "Rp 5.000.000",
+        "question": "Siapakah penemu bola lampu pijar komersial?",
+        "options": ["Nikola Tesla", "Albert Einstein", "Thomas Alva Edison", "Alexander Graham Bell"],
+        "answer": 2
+    },
+    {
+        "level": 4,
+        "prize": "Rp 10.000.000",
+        "question": "Unsur kimia dengan lambang 'Au' adalah...?",
+        "options": ["Perak", "Emas", "Tembaga", "Besi"],
+        "answer": 1
+    },
+    {
+        "level": 5,
+        "prize": "Rp 25.000.000",
+        "question": "Sungai terpanjang di dunia terletak di benua...?",
+        "options": ["Asia", "Amerika", "Afrika", "Eropa"],
+        "answer": 2
+    },
+    {
+        "level": 6,
+        "prize": "Rp 50.000.000",
+        "question": "Negara manakah yang memiliki bentuk seperti sepatu bot?",
+        "options": ["Yunani", "Spanyol", "Italia", "Prancis"],
+        "answer": 2
+    },
+    {
+        "level": 7,
+        "prize": "Rp 100.000.000",
+        "question": "Teori Relativitas Umum dikemukakan oleh...?",
+        "options": ["Isaac Newton", "Albert Einstein", "Stephen Hawking", "Galileo Galilei"],
+        "answer": 1
+    },
+    {
+        "level": 8,
+        "prize": "Rp 250.000.000",
+        "question": "Tahun berapa Perang Dunia II berakhir?",
+        "options": ["1942", "1945", "1950", "1939"],
+        "answer": 1
+    },
+    {
+        "level": 9,
+        "prize": "Rp 500.000.000",
+        "question": "Candi Borobudur dibangun pada masa dinasti...?",
+        "options": ["Sanjaya", "Syailendra", "Isyana", "Majapahit"],
+        "answer": 1
+    },
+    {
+        "level": 10,
+        "prize": "Rp 1.000.000.000",
+        "question": "Partikel subatomik bermuatan negatif yang mengelilingi inti atom disebut...?",
+        "options": ["Proton", "Neutron", "Elektron", "Positron"],
+        "answer": 2
+    }
+]
